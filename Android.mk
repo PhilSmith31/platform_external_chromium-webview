@@ -40,4 +40,6 @@ LOCAL_PREBUILT_JNI_LIBS_arm := @lib/armeabi-v7a/libwebviewchromium.so
 LOCAL_PREBUILT_JNI_LIBS_arm64 := @lib/arm64-v8a/libwebviewchromium.so
 LOCAL_PREBUILT_JNI_LIBS_x86 := @lib/x86/libwebviewchromium.so
 
+LOCAL_DEX_PREOPT := false
+
 include $(BUILD_PREBUILT)
