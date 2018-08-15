@@ -1,6 +1,6 @@
 ##WebView Google Play Store's Edition
 
-#####This tree is only for arm, arm64 and x86
+#####This tree is only for arm, arm64 and x86 # not anymore - check Android.mk
 
 ######These files are taken from [APK Mirror](http://www.apkmirror.com/apk/google-inc/android-system-webview) (we give thanks to these guys for making a better world!).
 <br>
